@@ -1,6 +1,6 @@
 # ParkLog
 
-![Tests](https://github.com/caetano14/parklog/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/miguelscaetano/parklog/actions/workflows/test.yml/badge.svg)
 ![Expo SDK 54](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo)
 ![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?logo=react&logoColor=white)
 
@@ -10,7 +10,7 @@ Built with React Native and Expo in about a week as a portfolio project. Dark UI
 
 https://github.com/user-attachments/assets/fcad3476-4699-434d-bef7-75e430a923fa
 
-**[▶ Full demo on YouTube](https://youtu.be/4zAzQh7ZVGI)** · **[⬇ Download the Android APK](https://github.com/caetano14/parklog/releases/latest/download/parklog.apk)** · [Source code](https://github.com/caetano14/parklog)
+**[▶ Full demo on YouTube](https://youtu.be/4zAzQh7ZVGI)** · **[⬇ Download the Android APK](https://github.com/miguelscaetano/parklog/releases/latest/download/parklog.apk)** · [Source code](https://github.com/miguelscaetano/parklog)
 
 > The demo videos show the app in English. Portuguese is also built in.
 
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/fcad3476-4699-434d-bef7-75e430a923fa
 
 ### Android
 
-1. Download [`parklog.apk`](https://github.com/caetano14/parklog/releases/latest/download/parklog.apk) on your phone (all versions are on the [Releases page](https://github.com/caetano14/parklog/releases)).
+1. Download [`parklog.apk`](https://github.com/miguelscaetano/parklog/releases/latest/download/parklog.apk) on your phone (all versions are on the [Releases page](https://github.com/miguelscaetano/parklog/releases)).
 2. Open it. If Android asks, allow installing apps from this source (Settings → Install unknown apps).
 3. Google Play Protect may warn that the app is from an unknown developer. That is expected: this is a personal project that is not on the Play Store.
 
@@ -164,4 +164,4 @@ Everything is stored on the device. Photos are only sent to the recognition serv
 
 ## Author
 
-Made by **Miguel Caetano** ([@caetano14](https://github.com/caetano14)).
+Made by **Miguel Caetano** ([@miguelscaetano](https://github.com/miguelscaetano)).
