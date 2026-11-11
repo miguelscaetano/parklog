@@ -8,6 +8,7 @@
 
 Built with React Native and Expo in about a week as a portfolio project. Dark UI, works offline, no account needed, and your data stays on your phone.
 
+https://github.com/user-attachments/assets/fcad3476-4699-434d-bef7-75e430a923fa
 
 **[▶ Full demo on YouTube](https://youtu.be/4zAzQh7ZVGI)** · **[⬇ Download the Android APK](https://github.com/caetano14/parklog/releases/latest/download/parklog.apk)** · [Source code](https://github.com/caetano14/parklog)
 
